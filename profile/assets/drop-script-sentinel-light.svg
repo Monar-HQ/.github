@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 423 324" width="423" height="324" role="img" aria-labelledby="title desc">
-  <title id="title">Script Sentinel — private preview</title>
+  <title id="title">Script Sentinel — public release preparation</title>
   <desc id="desc">Local-first JavaScript supply-chain defense from MONAR. Inventory, verify, review, approve.</desc>
   <defs>
     <pattern id="stripes" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
@@ -10,7 +10,7 @@
   <rect x="1" y="1" width="421" height="10" fill="url(#stripes)"/>
   <text x="22" y="39" fill="#55565a" font-family="monospace" font-size="10" letter-spacing="1.4">DROP 02  /  APPLICATION SECURITY</text>
   <rect x="311" y="21" width="90" height="24" fill="#04050a"/>
-  <text x="356" y="37" fill="#FFD21A" font-family="monospace" font-size="9" text-anchor="middle" letter-spacing=".6">PRIVATE PREVIEW</text>
+  <text x="356" y="37" fill="#FFD21A" font-family="monospace" font-size="9" text-anchor="middle" letter-spacing=".6">LAUNCH PREP</text>
   <path d="M22 57H401" stroke="#c6c5c3"/>
   <rect x="22" y="76" width="38" height="38" fill="#FFD21A" stroke="#04050a" stroke-width="2"/>
   <path d="M31 85H51V90H36V94H51V105H31V100H46V98H31Z" fill="#04050a"/>
